@@ -6,3 +6,6 @@ Don't fool yourself! because you have probably read my username. i am Bamdad. a 
 I like making stuff and messing around with code.
 
 Languages: C++, Java C#, GDscript, partial HTML + CSS and more to be added in the distant future.
+
+
+To be editted....
