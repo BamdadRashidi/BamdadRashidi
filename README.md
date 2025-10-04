@@ -17,9 +17,15 @@ I like making stuff and messing around with code.
 
 ## 🔥 Projects made or was featured in
 [Dungeon Excavator: A small game made in Godot](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)
+[Navak: a music player made with Dart and plain Java](https://github.com/BamdadRashidi/AP_Music_player_project)
 
-[Navak a music player made with Dart and plain Java](https://github.com/BamdadRashidi/AP_Music_player_project)
 
+## ✨Personal hobbies✨
+- Gaming 🎮
+- Making music using FL studio 🗣️🔥✨🎵🎼
+- messing around with small but beneficial coding projects 🧑‍💻
+- wasting time LOL 🗿
+- reading books 📖
 
 
 
