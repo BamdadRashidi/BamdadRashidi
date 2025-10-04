@@ -16,9 +16,9 @@ I like making stuff and messing around with code.
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
 ## 🔥 Projects made or was featured in
-![Dungeon Excavator: A small game made in Godot](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)
+[Dungeon Excavator: A small game made in Godot](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)
 
-![Navak a music player made with Dart and plain Java](https://github.com/BamdadRashidi/AP_Music_player_project)
+[Navak a music player made with Dart and plain Java](https://github.com/BamdadRashidi/AP_Music_player_project)
 
 
 
