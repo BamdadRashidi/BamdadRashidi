@@ -1,7 +1,5 @@
 # Hi there, you might seem to have bumped into the profile of mine. you might ask who even am i. well...
 
-## Perhaps what i am, may not be the most important factor for now.
-
 As you know from my profile, I am Bamdad. a computer engineer at SBU university in Tehran, Iran.
 I like making stuff and messing around with code.
 
