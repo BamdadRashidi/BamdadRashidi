@@ -18,6 +18,7 @@ I like making stuff and messing around with code.
 
 ## 🔥 Projects made or was featured in
 **[Navak](https://github.com/BamdadRashidi/AP_Music_player_project)** — A music player made with Dart and Java 🎵
+
 **[Dungeon Excavator](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)** — A small game made in Godot 🎮  
 
 
