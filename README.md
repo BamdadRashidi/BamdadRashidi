@@ -1,6 +1,6 @@
 # Hi there, you might seem to have bumped into the profile of mine. you might ask who even am i. well...
 
-As you know from my profile, I am Bamdad. a computer engineer at SBU university in Tehran, Iran.
+As you know from my profile, I am Mohammadamin "Bamdad" Rashidi. a computer engineer at SBU university in Tehran, Iran.
 I like making stuff and messing around with code.
 
 ## 🖥️ Used languages/frameworks
