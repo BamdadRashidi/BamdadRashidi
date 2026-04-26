@@ -19,11 +19,11 @@ I like making stuff and messing around with code.
 
 
 ## 🔥 Projects made or was featured in
-**[Navak](https://github.com/BamdadRashidi/AP_Music_player_project)** — A music player made with Dart and Java 🎵
+**[Navak](https://github.com/BamdadRashidi/AP_Music_player_project)** — A music player made with Dart and Java 🎵.
 
-**[Dungeon Excavator](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)** — Explore a small cavern and find items to help you🎮  
+**[Dungeon Excavator](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)** — Explore a small cavern and find items to help you 🎮.
 
-
+**[Space Invaders Clone](https://github.com/BamdadRashidi/Space-invaders-clone)** — Play the original space invaders with slightly improved graphics 👾.
 
 
 
