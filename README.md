@@ -29,6 +29,9 @@ And love to become a software/game developer.
 
 
 ## 🔥 Projects made and was featured in so far.
+
+<a style="text-decoration:none;" href="https://github.com/BamdadRashidi/AP_Music_player_project">Navak - A music player made with Dart and Java 🎵. </a>
+
 **[Navak](https://github.com/BamdadRashidi/AP_Music_player_project)** — A music player made with Dart and Java 🎵.
 
 **[Dungeon Excavator](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)** — Explore a small cavern and find items to help you 🎮.
