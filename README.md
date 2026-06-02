@@ -1,7 +1,8 @@
 # Hi there, you might seem to have bumped into the profile of mine. you might ask who even am i. well...
 
-As you know from my profile, I am Mohammadamin "Bamdad" Rashidi. a computer engineer at SBU university in Tehran, Iran.
-I like making stuff and messing around with code.
+As you know from my profile, I am Mohammadamin "Bamdad" Rashidi. A computer engineer at SBU university in Tehran, Iran.
+I like making stuff with code and make music.
+And love to become a software/game developer.
 
 ## 🖥️ Languages/Frameworks that i use more frequently
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
