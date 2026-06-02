@@ -32,11 +32,10 @@ And love to become a software/game developer.
 
 <a style="text-decoration:none;" href="https://github.com/BamdadRashidi/AP_Music_player_project">Navak - A music player made with Dart and Java 🎵. </a>
 
-**[Navak](https://github.com/BamdadRashidi/AP_Music_player_project)** — A music player made with Dart and Java 🎵.
+<a style="text-decoration:none;" href="[https://github.com/BamdadRashidi/AP_Music_player_project](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)">Dungeon Excavator — Explore a small cavern and find items to help you 🎮.</a>
 
-**[Dungeon Excavator](https://github.com/BamdadRashidi/Dungeon-excavator-source-code)** — Explore a small cavern and find items to help you 🎮.
+<a style="text-decoration:none;" href="[https://github.com/BamdadRashidi/AP_Music_player_project](https://github.com/BamdadRashidi/Space-invaders-clone)">Space Invaders Clone — Play the original space invaders with slightly improved graphics 👾.</a>
 
-**[Space Invaders Clone](https://github.com/BamdadRashidi/Space-invaders-clone)** — Play the original space invaders with slightly improved graphics 👾.
 
 
 
